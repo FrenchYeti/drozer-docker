@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER FrenchYeti "georges.michel@protonmail.com"
+MAINTAINER @FrenchYeti
 
 RUN useradd -ms /bin/bash drozer
 
